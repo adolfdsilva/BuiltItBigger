@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="audi.com.ajokelib">
+
+    <application  android:label="@string/app_name"
+        android:supportsRtl="true">
+
+        <activity android:name=".TellJokeActivity"/>
+    </application>
+
+</manifest>

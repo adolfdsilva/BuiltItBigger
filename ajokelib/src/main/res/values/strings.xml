@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AjokeLib</string>
+    <string name="default_joke">I don\'t know a joke</string>
+</resources>
